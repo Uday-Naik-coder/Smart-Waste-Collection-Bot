@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162887077509",
+    "project_id": "smart-waste-collection-e18e6",
+    "storage_bucket": "smart-waste-collection-e18e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162887077509:android:19603e78f7eb25313823ec",
+        "android_client_info": {
+          "package_name": "com.example.swc_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeezXeNmjssdlMP6aojL_pPI8ZWGSWQ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
